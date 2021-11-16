@@ -1,0 +1,8 @@
+.menu a{
+    text-decoration: none;
+}
+
+.menu a:hover{
+    border-bottom: 2px solid #d35400;
+    transition: 0.1s;
+}
